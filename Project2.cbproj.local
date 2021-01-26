@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.337,=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.01.26 20:06:43.137,=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021.01.26 20:06:43.420,=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.01.26 20:07:32.503,F:\Бугайов Олексій\cpp-app-project1.2\Unit2.cpp=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.01.26 20:07:32.503,F:\Бугайов Олексій\cpp-app-project1.2\Unit2.dfm=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021.01.26 20:07:32.503,F:\Бугайов Олексій\cpp-app-project1.2\Unit2.h=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021.01.26 20:07:36.032,F:\Бугайов Олексій\cpp-app-project1.2\Project2PCH1.h=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021.01.26 20:07:38.544,F:\Бугайов Олексій\cpp-app-project1.2\Project2.cbproj=C:\Users\Nezna\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
